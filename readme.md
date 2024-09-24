@@ -1,4 +1,4 @@
-
+<img src="https://github.com/eofferupp/groupon-scraper/raw/main/images/cover (2).png" alt="My Temu Scraper Cover" />
 # 📱 Instagram Auto Reply Bot 🤖✨
 
 ![Instagram Auto Reply Cover](https://example.com/cover-image.png) <!-- Replace with your own cover image -->
