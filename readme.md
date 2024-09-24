@@ -1,6 +1,6 @@
 # 📱 Instagram Auto Reply Bot 🤖✨
 
-<img src="https://github.com/eofferupp/groupon-scraper/raw/main/images/cover (2).png" alt="My Temu Scraper Cover" />
+<img src="https://github.com/eofferupp/instagram-auto-reply/raw/main/images/qq.png" alt="My Temu Scraper Cover" />
 
 [![GitHub](https://img.shields.io/github/license/eofferupp/instagram-auto-reply?color=blue)](https://img.shields.io/github/license/eofferupp/instagram-auto-reply) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/instagram-auto-reply)](https://github.com/eofferupp/instagram-auto-reply/stargazers)
 
